@@ -25,7 +25,7 @@ A modern, responsive patient records management system built with React.js. This
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home.png)
 _Landing page with feature highlights_
 
 ### Patients List
