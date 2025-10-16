@@ -35,7 +35,7 @@ _Grid view of patient cards with search functionality_
 
 ### Patient Details
 
-![Patient Details](screenshots/patient-details.png)
+![Patient Details](screenshots/Patient-Details.png)
 _Detailed view of patient information_
 
 ### Add New Patient
@@ -53,29 +53,29 @@ _Form for adding new patients with validation_
 ## ⚙️ Installation
 
 1. Clone the repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/yourusername/patient-records.git
-   \`\`\`
+   ```
 
 2. Navigate to the project directory:
-   \`\`\`bash
+   ```bash
    cd patient-records
-   \`\`\`
+   ```
 
 3. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 4. Start the development server:
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 5. Open your browser and visit:
-   \`\`\`
+   ```
    http://localhost:5173
-   \`\`\`
+   ```
 
 ## 🔧 Configuration
 
@@ -83,7 +83,7 @@ No additional configuration is required. The application uses mock data by defau
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 patient-records/
 ├── src/
 │ ├── components/ # Reusable UI components
@@ -94,7 +94,7 @@ patient-records/
 │ └── main.jsx # Entry point
 ├── public/ # Static assets
 └── package.json # Project dependencies
-\`\`\`
+```
 
 ## 🌿 Branches
 
@@ -111,7 +111,7 @@ patient-records/
 
 ## 📝 License
 
-This project is licensed under no License.
+This project currently does not include a license.
 
 ## 🙋‍♂️ Support
 
