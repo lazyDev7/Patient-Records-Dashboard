@@ -1,0 +1,55 @@
+.about {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about h2 {
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.about-content {
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.about-content > p {
+  color: #34495e;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.mission,
+.contact-info {
+  margin-top: 2rem;
+}
+
+.mission h3,
+.contact-info h3 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.mission p,
+.contact-info p {
+  color: #7f8c8d;
+  line-height: 1.6;
+}
+
+.contact-info p {
+  margin: 0.5rem 0;
+}
+
+@media (max-width: 768px) {
+  .about {
+    padding: 1rem;
+  }
+
+  .about-content {
+    padding: 1.5rem;
+  }
+}

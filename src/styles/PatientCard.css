@@ -1,0 +1,41 @@
+.patient-card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.patient-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.patient-card h3 {
+  margin: 0 0 1rem 0;
+  color: #2c3e50;
+}
+
+.patient-info {
+  margin-bottom: 1rem;
+}
+
+.patient-info p {
+  margin: 0.5rem 0;
+  color: #34495e;
+}
+
+.view-details-btn {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%;
+}
+
+.view-details-btn:hover {
+  background-color: #2980b9;
+}
