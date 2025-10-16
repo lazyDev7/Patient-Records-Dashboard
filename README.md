@@ -130,4 +130,4 @@ For support, rm7718166418@gmail.com or create an issue in this repository.
 
 ---
 
-Made with ❤️ by Rahul Maity
+Made with ❤️ by lazyDev7
