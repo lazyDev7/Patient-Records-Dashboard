@@ -19,7 +19,7 @@ A modern, responsive patient records management system built with React.js. This
 
 ## 🚀 Live Demo
 
-[Demo Link](Add your demo link here) <!-- Replace with your deployed app link -->
+https://patient-record-details.netlify.app <!-- Replace with your deployed app link -->
 
 ## 📸 Screenshots
 
