@@ -54,7 +54,7 @@ _Form for adding new patients with validation_
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/patient-records.git
+   git clone https://github.com/lazyDev7/Patient-Records-Dashboard.git
    ```
 
 2. Navigate to the project directory:
